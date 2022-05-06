@@ -1,0 +1,40 @@
+body {
+    margin: 51px;
+}
+.heading{
+    font-weight: 200;
+}
+.form{
+    margin-top: 10px;
+    max-width: 400px;
+    margin: 22px;
+    font-weight: 500;
+}
+.card-1{
+    background-color: #F6F8FA;
+}
+.card{
+    border-radius: 10px;
+}
+.form-control{
+    border-radius: 5px;
+    height: 40px;
+}
+.form-group a{
+    text-decoration: none;
+}
+.form-group{
+    font-size: 16px;
+}
+.btn{
+    border-radius: 5px;
+    height: 40px;   
+}
+.bottom-navbar a{
+    padding: 38px 9px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.nav{
+    margin-top: 10px;
+}
